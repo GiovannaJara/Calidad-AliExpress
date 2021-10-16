@@ -7,6 +7,8 @@ En el presente trabajo nos enfocamos en las siguientes funcionalidades:
 
 ![image](https://user-images.githubusercontent.com/40558170/137569612-ebba9050-a639-4f1c-9fba-ffc642da9671.png)
 
+Prototipos
+
 ![image](https://user-images.githubusercontent.com/40558170/137569705-44706bf5-2b7d-4e63-9f04-ac9c60717545.png)
 
 ![image](https://user-images.githubusercontent.com/40558170/137569715-883ea726-b5ed-48ae-828e-e5ec00c205e4.png)
