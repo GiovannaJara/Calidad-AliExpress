@@ -5,4 +5,5 @@ AliExpress es una plataforma de ventas on-line fundada en el año 2010 por peque
 En el presente trabjo nos enfocamos en las siguientes funcionalidades:
 
 
-![image](https://user-images.githubusercontent.com/40558170/137569527-7aeab27e-ac7e-44c3-bce6-560f6bad0c78.png)
+![image](https://user-images.githubusercontent.com/40558170/137569612-ebba9050-a639-4f1c-9fba-ffc642da9671.png)
+
