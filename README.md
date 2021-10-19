@@ -13,9 +13,8 @@ Registro de comprador
 
 ![image](https://user-images.githubusercontent.com/40558170/137569705-44706bf5-2b7d-4e63-9f04-ac9c60717545.png)
 
-![image](https://user-images.githubusercontent.com/40558170/137569715-883ea726-b5ed-48ae-828e-e5ec00c205e4.png)
+Inciar Sesión
 
-Iniciar sesión
 ![image](https://user-images.githubusercontent.com/73000068/138003846-8092ee8c-6875-4b3b-bdb6-c25d5d17194a.png)
 
 Realizar pedido
