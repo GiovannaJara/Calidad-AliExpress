@@ -13,6 +13,9 @@ PROTOTIPOS
 
 ![image](https://user-images.githubusercontent.com/40558170/137569715-883ea726-b5ed-48ae-828e-e5ec00c205e4.png)
 
+Realizar pedido
+![image](https://user-images.githubusercontent.com/40558170/138003231-54256213-cbee-4829-ac67-3f7bfce6c3d9.png)
+
 Actualizar información del comprador
 ![image](https://user-images.githubusercontent.com/57166198/137216926-814321c4-9402-409d-9cad-6d95c6be60de.png)
 
