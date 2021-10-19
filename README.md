@@ -7,7 +7,7 @@ En el presente trabajo nos enfocamos en las siguientes funcionalidades:
 
 ![image](https://user-images.githubusercontent.com/40558170/137569612-ebba9050-a639-4f1c-9fba-ffc642da9671.png)
 
-Prototipos
+**Prototipos**
 
 Registro de comprador
 
