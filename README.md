@@ -17,4 +17,5 @@ Actualizar información del comprador
 ![image](https://user-images.githubusercontent.com/57166198/137216926-814321c4-9402-409d-9cad-6d95c6be60de.png)
 
 Añadir sugerencias
+
 ![image](https://user-images.githubusercontent.com/57166198/137242482-013e964d-8cfa-42ee-9a2c-978800f4d2f4.png)
