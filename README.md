@@ -10,11 +10,13 @@ En el presente trabajo nos enfocamos en las siguientes funcionalidades:
 Prototipos
 
 Registro de comprador
+
 ![image](https://user-images.githubusercontent.com/40558170/137569705-44706bf5-2b7d-4e63-9f04-ac9c60717545.png)
 
 ![image](https://user-images.githubusercontent.com/40558170/137569715-883ea726-b5ed-48ae-828e-e5ec00c205e4.png)
 
 Realizar pedido
+
 ![image](https://user-images.githubusercontent.com/40558170/138003231-54256213-cbee-4829-ac67-3f7bfce6c3d9.png)
 
 Actualizar información del comprador
