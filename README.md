@@ -45,4 +45,4 @@ Buscar producto por categoria
 
 Añadir lista de deseos
 
-
+![lista_deseos](https://user-images.githubusercontent.com/92241026/137066868-fb277c6a-6109-437b-b0f7-5646fd437c3c.JPG)
