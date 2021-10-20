@@ -40,7 +40,7 @@ Buscar producto por categoria
 
 ![image](https://user-images.githubusercontent.com/57166198/137432619-5e2799df-aec7-4307-b891-930908ea95dd.png)
 
-Añadir lista de deseos
+Añadir a lista de deseos
 
 ![lista_deseos](https://user-images.githubusercontent.com/92241026/137066868-fb277c6a-6109-437b-b0f7-5646fd437c3c.JPG)
 
