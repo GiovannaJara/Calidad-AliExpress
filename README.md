@@ -33,10 +33,13 @@ Añadir sugerencias
 ![image](https://user-images.githubusercontent.com/57166198/137242482-013e964d-8cfa-42ee-9a2c-978800f4d2f4.png)
 
 Buscar producto por categoria
+
 **1.**
 ![BUSCADOR](https://user-images.githubusercontent.com/92241026/137065690-ae7941f5-5d6d-48f4-9bfa-aa78589bd24a.JPG)
+
 **2.**
 ![categoria](https://user-images.githubusercontent.com/92241026/137252409-2abde804-3f1c-4ec9-bf6a-077d1cf0faa7.JPG)
+
 **3.**
 ![image](https://user-images.githubusercontent.com/57166198/137432619-5e2799df-aec7-4307-b891-930908ea95dd.png)
 
